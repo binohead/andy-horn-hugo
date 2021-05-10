@@ -1,7 +1,8 @@
 ---
 title: 'My Second Post'
-date: 2021-05-10T17:18:05+01:00
+date: 2020-07-18T17:18:05+01:00
 draft: false
 ---
 
-# Here's another post
+# Hugo on Vercel
+Is this thing really working?!
