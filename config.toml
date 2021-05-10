@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "https://example.org/"
+baseurl = "https://andy-horn-hugo.vercel.app/"
 languageCode = "en-us"
 title = "Hugo Bootstrap v4 Blog"
 theme = "hugo-theme-bootstrap4-blog-master"
@@ -34,7 +34,7 @@ summaryLength = 50
 #
 [params]
   # Site author
-  author = "Your Name"
+  author = "Andy Hron"
 
   # Description/subtitle for homepage (can be Markdown)
   description = "A simple Hugo theme based on the Bootstrap v4 blog example."
@@ -82,7 +82,7 @@ summaryLength = 50
     # Optional, used for attribution in Twitter cards (ideally not a person
     # for example: nytimes, flickr, NatGeo, etc).
     # See: https://dev.twitter.com/cards/types/summary-large-image
-    twitter = "username"
+    twitter = "binohead"
 
 # Default content language for Hugo 0.17's multilingual support (default is "en")
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
