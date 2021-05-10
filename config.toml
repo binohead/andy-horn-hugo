@@ -3,7 +3,7 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Hugo Bootstrap v4 Blog"
-theme = "hugo-theme-bootstrap4-blog-master"
+theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
 # number of words to use for summary on home/category/tag pages (Default: 70)
