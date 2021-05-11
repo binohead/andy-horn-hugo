@@ -1,9 +1,9 @@
 ---
-images = ["peacock.jpg"]
+images: 'peacock.jpg'
 title: 'Testing the peacock'
 date: 2021-05-10T17:18:05+01:00
 draft: false
-description = "The octagonal sixth-century Byzantine martyrium of Gadara is of great significance to the region."
+description: 'The octagonal sixth-century Byzantine martyrium of Gadara is of great significance to the region.'
 ---
 
 {{< figure src="peacock.jpg" title="Ruins of the octagonal sixth-century Byzantine martyrium" >}}
