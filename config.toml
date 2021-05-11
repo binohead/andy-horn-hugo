@@ -2,7 +2,7 @@
 #
 baseurl = "https://andy-horn-hugo.vercel.app/"
 languageCode = "en-us"
-title = "Hugo Bootstrap v4 Blog"
+title = "Andy's All New Bird Blog"
 theme = "hugo-theme-bootstrap4-blog-master"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
@@ -34,10 +34,10 @@ summaryLength = 50
 #
 [params]
   # Site author
-  author = "Andy Hron"
+  author = "Andy Horn"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "All the bird news that's fit to print (and some that isn't)."
 
   # Show header (default: true)
   #header_visible = true
@@ -73,7 +73,7 @@ summaryLength = 50
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
+    about = "Andy works on animal communication. Watches birds too much, practices trombone too little"
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
