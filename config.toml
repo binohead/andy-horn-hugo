@@ -25,9 +25,9 @@ summaryLength = 50
   name = "Link 2"
   url = "https://example.org"
 
-#[[menu.navbar]]
-#  name = "Link 1"
-#  url = "https://example.org"
+[[menu.navbar]]
+  name = "hometest"
+  url = "https://andy-horn-hugo.vercel.app/hometest"
 
 
 # Theme variables
