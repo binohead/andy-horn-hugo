@@ -4,6 +4,7 @@ subtitle: Testing whether the subtitle works
 date: 2021-05-10T17:18:05+01:00
 draft: false
 image: geese.jpg
+tags: [birds, writing]
 ---
 
 {{< figure src="geese.jpg" caption="Some geese" >}}
