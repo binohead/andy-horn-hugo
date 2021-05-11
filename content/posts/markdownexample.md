@@ -1,6 +1,6 @@
 ---
 images = ["peacock.jpg"]
-title: 'My First Post'
+title: 'Testing the peacock'
 date: 2019-07-18T17:18:05+01:00
 draft: false
 description = "The octagonal sixth-century Byzantine martyrium of Gadara is of great significance to the region."
