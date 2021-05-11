@@ -1,7 +1,10 @@
 ---
-title: 'Testing the peacock'
-date: 2021-05-10T17:18:05+01:00
+title: Testing the peacock
+subtitle: A passage about Chinese characters triggers cool insights on translatability
+date: 2020-10-31T17:18:05+01:00
+summary: Here maybe I'll get this post to work
 draft: false
+image: peacock.jpg
 ---
 
 {{< figure src="peacock.jpg" title="Ruins of the octagonal sixth-century Byzantine martyrium" >}}
